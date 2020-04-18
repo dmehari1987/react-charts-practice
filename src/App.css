@@ -1,5 +1,11 @@
 .App {
-  text-align: center;
+  padding-top: 5px;
+  display: flex;
+  justify-content: center;
+}
+
+.chart {
+  width: 720px;
 }
 
 .App-logo {
